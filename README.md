@@ -1,4 +1,4 @@
-# Diabetes predictions application in Python
+#  predictions application in Python
 
 Cette application est réalisée à l'aide des bibliothèques d'apprentissage automatique sklearn et de pyqt5 pour son interface utilisateur graphique.
 LogisticRegression classe les données d'entrée avec une précision de 70 %. Nous avons choisi l'ensemble de données offert par [Global Watch Fishing](https://globalfishingwatch.org/).
