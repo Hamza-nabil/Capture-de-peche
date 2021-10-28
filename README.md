@@ -35,7 +35,7 @@ python3 src/interface.py
 ---> La resulta s'affiche .
 
 
-### DOCUMENTATION :
+<!-- ### DOCUMENTATION :
 
 Capture de peche        # Dossier racine du projet (non versionner)
 |
@@ -70,3 +70,4 @@ Capture de peche        # Dossier racine du projet (non versionner)
 +-- requirement.txt     # Contient les dépendances a installer .
 |
 \-- README.md
+ -->
